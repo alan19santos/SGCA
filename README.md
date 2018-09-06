@@ -1,2 +1,2 @@
 # projetoVenda
-projeto voltado para venda de automoveis
+projeto voltado para aluguel de automoveis
