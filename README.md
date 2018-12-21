@@ -1,2 +1,2 @@
-# projetoVenda
-projeto voltado para aluguel de automoveis
+# SGCA
+Projeto com o nome soroteca voltado para controle de amostras
